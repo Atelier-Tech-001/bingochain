@@ -84,6 +84,7 @@ export default function Home() {
                   Los primeros en acertar pueden listar su NFT en el marketplace
                 </li>
                 <li>A más aciertos, más valor gana tu cupón</li>
+                <li>CONETAR MAGIC (wallet si custodia para los que no tengan bileteras criptos)</li>
               </ul>
               <button className="mt-4 px-6 py-2 bg-white text-cyan-700 font-bold rounded-xl hover:bg-cyan-100 shadow-[0_0_20px_rgba(22,204,255,0.7)] transition">
                 Participar ahora
